@@ -56,6 +56,7 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="date (v3.4.1, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.10.0, ruby-3.3.6-p108) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dockerfile-rails (v1.6.25, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="dotenv (v3.1.7, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.1, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ed25519 (v1.3.0, ruby-3.3.6-p108) [gem]" level="application" />
@@ -163,6 +164,7 @@
         <option value="benchmark" />
         <option value="channel" />
         <option value="controller" />
+        <option value="dockerfile" />
         <option value="erb:authentication" />
         <option value="erb:controller" />
         <option value="erb:mailer" />
@@ -206,6 +208,7 @@
         <option value="benchmark" />
         <option value="channel" />
         <option value="controller" />
+        <option value="dockerfile" />
         <option value="erb:authentication" />
         <option value="erb:controller" />
         <option value="erb:mailer" />

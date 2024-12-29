@@ -66,3 +66,5 @@ group :test do
 end
 
 gem "shadcn-ui", "~> 0.0.15"
+
+gem "dockerfile-rails", ">= 1.6", :group => :development
